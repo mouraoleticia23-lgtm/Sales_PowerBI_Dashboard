@@ -10,3 +10,5 @@ Key analyses included:
     • Detailed table summarizing sales
 
 The dashboard was developed in Power BI, with a interactive look, allowing dynamic filters to support strategic decision-making.
+
+https://app.powerbi.com/view?r=eyJrIjoiNTU3OTFiMmQtN2RlMS00NzU1LThiZWEtNGY3ODhmZjQwMWQzIiwidCI6IjEzOGNjYzA2LTUxNmItNGU4MS04ODEzLTA2ZmQyNTMxYmRkYyIsImMiOjh9
